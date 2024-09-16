@@ -1,0 +1,9 @@
+basics1.java -> will cover the basics of comparator concepts and I will be writing code to understand the overriding of the classes simultaneously.
+
+basics2.java -> This will cover lambda expression for the simultaneously
+
+basics3.java -> This is an extension of basics1.java. In this, a more human readable code is written.
+
+basics4.java -> This will cover PriorityQueue. This follows the min heap ds TiT the smallest value will be poll first
+
+basics5.java -> This will over PriorityQueue but with updates for it to behave in max heap ds.
