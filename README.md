@@ -1,4 +1,4 @@
-# Java Collections Learning Repository (Work in Progress) 🚧
+# Java Collections Learning (Work in Progress) 🚧
 
 This repository is a part of my journey to master **Java Collections**. It will be continuously updated with new examples, exercises, and improvements as I learn more about Java's data structures.
 
